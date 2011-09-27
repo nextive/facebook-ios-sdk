@@ -1,0 +1,3 @@
+[submodule "src/NextiveJson"]
+	path = src/NextiveJson
+	url = git://github.com/nextive/NextiveJson.git
